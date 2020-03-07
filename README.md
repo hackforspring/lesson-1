@@ -4,3 +4,4 @@
 
 ＃概要
 HTMLとJavaScriptをつかって数あてゲームを作ります。 Twichのほうに録画がありますので、そちらと一緒にご覧ください。
+https://www.twitch.tv/hackforspring/videos
